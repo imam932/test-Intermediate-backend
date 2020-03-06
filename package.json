@@ -1,0 +1,22 @@
+{
+  "name": "test-dot-backend",
+  "version": "1.0.0",
+  "description": "Membuat endpoint untuk menampilkan dan daftar dan melakukan pencarian data provinsi dan kota",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "js-yaml": "^3.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imam932/test-Intermediate-backend.git"
+  },
+  "keywords": [],
+  "author": "imam nawawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imam932/test-Intermediate-backend/issues"
+  },
+  "homepage": "https://github.com/imam932/test-Intermediate-backend#readme"
+}
