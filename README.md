@@ -8,5 +8,5 @@ Require
 Start
 1. Pull repo (https://github.com/imam932/test-Intermediate-backend)
 2. checkout branch algorithmic
-3. npm install js-yaml
+3. npm install
 4. node app.js
