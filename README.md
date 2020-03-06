@@ -1,6 +1,6 @@
-# test-Intermediate-backend
-Masing-masing jawaban ada di setiap branch:
+# Test Intermediate backend
 
-## [1. branch algorithmic](https://github.com/imam932/test-Intermediate-backend/tree/algorithmic)
-## [2. branch backendtest]()
-## [3. branch knowledge](https://github.com/imam932/test-Intermediate-backend/tree/knowledge)
+Start
+1. npm install
+2. npm install rajaongkir-node-js
+3. npm start
