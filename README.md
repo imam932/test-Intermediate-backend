@@ -5,7 +5,7 @@
 2. npm install rajaongkir-node-js
 3. npm start
 
-## Gunakan Endpoit
+## Gunakan Endpoint
 Get province
 ```
 http://localhost:port/provinces
