@@ -1,6 +1,6 @@
 storages:
   database:
-    client: ${$SQL_CLIENT}
+    client: ${SQL_CLIENT}
     connection:
       host: ${$SQL_HOST}
       port: ${$SQL_PORT}
