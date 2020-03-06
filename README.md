@@ -11,7 +11,17 @@ Get province
 http://localhost:port/provinces
 ```
 
+Get province by ID province
+```
+http://localhost:port/provinces?searchKey=9
+```
+
 Get City
 ```
 http://localhost:port/cities
-``` 
+```
+
+Get city by ID city
+```
+http://localhost:port/cities?searchKey=4
+```
